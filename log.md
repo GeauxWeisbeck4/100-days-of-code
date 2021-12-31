@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 20 , 2021 (Personal CV Site)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Committed to 100 Days of Code. Started brand new Personal CV Site Project with an idea to eventually make it like an interactive desktop where you can click on bottom toolbar and icons on desktop to view apps/projects/jobs.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Really boring just doing the very basic HTML to get the content on there. Copied over CSS styling from old CV page that is basically meaningless to the page as of now
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://geauxweisbeck4.github.io/personal-cv-site/
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: December 31, 2021 (Personal CV Site)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued to add HTML Content blah blah.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It is a continuation from yesterday as adding all the content to the main HTML page is cumbersome, but allows me to have something to post for people to look at to see it in progress.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** https://geauxweisbeck4.github.io/personal-cv-site/
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
