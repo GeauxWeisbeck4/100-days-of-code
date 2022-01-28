@@ -1,4 +1,4 @@
-# Primary Resources on the #100DaysOfCode
+# Primary Resources on Andrew Weisbeck's #100DaysOfCode
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
@@ -8,6 +8,7 @@
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ### Podcasts
+1. https://syntax.fm/
 
 # Additional Resources on the #100DaysOfCode
 
@@ -18,6 +19,12 @@
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
+3. Tiny Projects (tinyprojects.dev)
+4. Alex West (alexwest.co)
+
+## Videos
+1. (How to Create the Side Navigation Bar Using HTML and CSS | Vertical Navigation Bar" Coding Market - https://www.youtube.com/watch?v=YesSVqjcDts
+2. "Learn CSS Position in 9 Minutes" Web Dev Simplified - https://www.youtube.com/watch?v=jx5jmI0UlXU
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
